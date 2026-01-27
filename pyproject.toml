@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "agenteIA-ordenarTarea"
+version = "0.1"
+description = "Un agente de IA especializado en ordenar tareas por prioridad, tiempo y fecha fin"
+requires-python = ">=3.11"
+dependencies = [
+
+]
+
+[project.optioanl-dependencies]
+dev = [
+
+]
+
+[project.scripts]
+agenteIA-ordenarTarea = "agenteIA_OrdenarTarea.main:run"
+
+[tool.black]
+line-length = 100
+
+[tool.ruff]
+line-length = 100
