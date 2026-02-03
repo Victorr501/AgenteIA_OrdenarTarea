@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/agenteIA_OrdenarTarea/__init__.py
+src/agenteIA_OrdenarTarea/main.py
+src/agenteIA_ordenarTarea.egg-info/PKG-INFO
+src/agenteIA_ordenarTarea.egg-info/SOURCES.txt
+src/agenteIA_ordenarTarea.egg-info/dependency_links.txt
+src/agenteIA_ordenarTarea.egg-info/entry_points.txt
+src/agenteIA_ordenarTarea.egg-info/requires.txt
+src/agenteIA_ordenarTarea.egg-info/top_level.txt
