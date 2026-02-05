@@ -79,7 +79,7 @@ def run():
                     mostrar_list_task(list_task=lista_tareas)
                     input("-"*200)
                 case "5":
-                    print("\nCerrando Agente IA. !Que tengas un diía productivo!")
+                    print("\nCerrando Agente IA. !Que tengas un día productivo!")
                     encendido = False
                 case _:
                     print("\nOpción no reconocida. Inténtalo de nuevo")
