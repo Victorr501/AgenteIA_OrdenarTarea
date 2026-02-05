@@ -1,0 +1,14 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "title": "Hacer una ia",
+            "description": null,
+            "due_date": "2026-04-07",
+            "priority_level": 4,
+            "estimated_time_hours": 20.0,
+            "status": "pending",
+            "ai_recommendation": "¡Empieza ya! Dividir la tarea en partes pequeñas hará que sea más manejable."
+        }
+    ]
+}
